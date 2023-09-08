@@ -202,7 +202,8 @@ Move and rename both operation can be performed using ‘mv’ command. It moves
     - ```[root@server0 /]# mv /media ~/Desktop/```
     - ```[root@server0 /]# mv /root/* /mnt/```
     - ```[root@server0 /]# mv fower flower.txt```
-    - ```[root@server0 /]# mv /root/anaconda-ks.cfg /root/kickstart.cfg```, ```[root@server0 /]# mv /opt /demo```
+    - ```[root@server0 /]# mv /root/anaconda-ks.cfg /root/kickstart.cfg```, 
+    - ```[root@server0 /]# mv /opt /demo```
     - ```[root@server0 /]# mv /root/anaconda-ks.cfg ~/Desktop/kickstart.txt```
 ```shell
  [root@server0 /]# rmdir /Demo
