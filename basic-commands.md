@@ -1,5 +1,5 @@
 ```shell
-"<span style='color: red;'> [user@hostname <current dir>]<user> #/$< /span>"
+[user@hostname <current dir>]<user> #/$
 ```
 ```$```: This is the default user shell prompt. It appears when you are logged in as a regular user.
 ```#```: This is the root shell prompt. It appears when you are logged in as the superuser (root) or when you have escalated your privileges using ```sudo```. The root prompt indicates that you have administrative privileges and can execute commands with elevated access.
