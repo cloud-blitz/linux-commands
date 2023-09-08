@@ -192,7 +192,7 @@ Copy operation use to copy files and directories in Linux, from one location to 
     - ```[root@server0 /]# cp /root/anaconda-ks.cfg /mnt/```
     - ```[root@server0 /]# cp -r /etc /root```
     - ```[root@server0 /]# cp –r /root/* /media```
-    - ```[root@server0/]#cp–rv/abc.txt/xyz.mp3/media```
+    - ```[root@server0 /]# cp –rv /abc.txt/xyz.mp3/media```
 ```shell
  [root@server0 /]# mv /root/anaconda-ks.cfg /mnt/
 ```
