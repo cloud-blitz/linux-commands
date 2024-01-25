@@ -212,8 +212,13 @@ rmdir command only deletes empty directories.
 ```shell
  [root@server0 /]# rm -vf /Demo/file1.txt
 ```
-rm command is use to delete files and directories. 
+rm command is use to delete files means which are inside of dir and directories. 
 - examples 
     - ```rm /Demo/file10.txt```
     - ```rm -vf /Demo/file1.txt```
     - ```rm –f /Demo/*```,```rm –r /Demo```
+awk 
+this command is used to perform actiosn on rows wise files
+
+sed command
+is used to sedigate teh files.
