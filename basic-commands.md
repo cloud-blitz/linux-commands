@@ -221,4 +221,4 @@ awk
 this command is used to perform actiosn on rows wise files
 
 sed command
-is used to sedigate teh files
+is used to sedigate teh files.
