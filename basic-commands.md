@@ -217,3 +217,5 @@ rm command is use to delete files means which are inside of dir and directories.
     - ```rm /Demo/file10.txt```
     - ```rm -vf /Demo/file1.txt```
     - ```rm –f /Demo/*```,```rm –r /Demo```
+awk 
+this command is used to perform actiosn on rows wise files
